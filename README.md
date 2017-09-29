@@ -1,2 +1,2 @@
 # flutistpage
-redesign of my personal webpage
+redesign of the landing page for my personal webpage
